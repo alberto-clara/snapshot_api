@@ -1,0 +1,3168 @@
+[
+  {
+    "id": 1001,
+    "name": "CTC-212",
+    "description": "CTC-212 Open Lab",
+    "monday": {
+      "day_of_week": "monday",
+      "time_blocks": [
+        {
+          "name": "CTC-212 M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 20,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "CTC-212 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 20,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "CTC-212 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "tuesday": {
+      "day_of_week": "tuesday",
+      "time_blocks": [
+        {
+          "name": "CTC-212 M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 20,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "CTC-212 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 20,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "CTC-212 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "wednesday": {
+      "day_of_week": "wednesday",
+      "time_blocks": [
+        {
+          "name": "CTC-212 M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 20,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "CTC-212 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 20,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "CTC-212 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "thursday": {
+      "day_of_week": "thursday",
+      "time_blocks": [
+        {
+          "name": "CTC-212 M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 20,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "CTC-212 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 20,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "CTC-212 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "friday": {
+      "day_of_week": "friday",
+      "time_blocks": [
+        {
+          "name": "CTC-212 Friday Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 10,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 14,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "CTC-212 Friday Hours Closed",
+          "status": "closed",
+          "start_time": {
+            "hour": 14,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "CTC-212 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 9,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "saturday": {
+      "day_of_week": "saturday",
+      "time_blocks": [
+        {
+          "name": "CTC-212 Closed Hours Weekend",
+          "status": "closed",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "CTC-212 Closed Hours Weekend",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "sunday": {
+      "day_of_week": "sunday",
+      "time_blocks": [
+        {
+          "name": "CTC-212 Closed Hours Weekend",
+          "status": "closed",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "CTC-212 Closed Hours Weekend",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "closed_dates": []
+  },
+  {
+    "id": 1003,
+    "name": "AA4-116 ",
+    "description": "AA4-116 Open Lab",
+    "monday": {
+      "day_of_week": "monday",
+      "time_blocks": [
+        {
+          "name": "AA4-116 M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 7,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 19,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "AA4-116 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 6,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "AA4-116 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 19,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "tuesday": {
+      "day_of_week": "tuesday",
+      "time_blocks": [
+        {
+          "name": "AA4-116 M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 7,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 19,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "AA4-116 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 6,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "AA4-116 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 19,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "wednesday": {
+      "day_of_week": "wednesday",
+      "time_blocks": [
+        {
+          "name": "AA4-116 M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 7,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 19,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "AA4-116 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 6,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "AA4-116 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 19,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "thursday": {
+      "day_of_week": "thursday",
+      "time_blocks": [
+        {
+          "name": "AA4-116 M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 7,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 19,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "AA4-116 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 6,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "AA4-116 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 19,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "friday": {
+      "day_of_week": "friday",
+      "time_blocks": [
+        {
+          "name": "AA4-116 Friday Open Hours ",
+          "status": "open",
+          "start_time": {
+            "hour": 7,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 15,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "AA4-116 Friday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 6,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "AA4-116 Friday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 15,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "saturday": {
+      "day_of_week": "saturday",
+      "time_blocks": [
+        {
+          "name": "AA4-116 Saturday Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 10,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 15,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "AA4-116 Saturday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 9,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "AA4-116 Saturday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 15,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "sunday": {
+      "day_of_week": "sunday",
+      "time_blocks": [
+        {
+          "name": "AA4-116 Sunday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 6,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "AA4-116 Sunday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 7,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "closed_dates": []
+  },
+  {
+    "id": 1004,
+    "name": "CCW-129",
+    "description": "CCW-129 Open Lab",
+    "monday": {
+      "day_of_week": "monday",
+      "time_blocks": [
+        {
+          "name": "CCW-129 M-F Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "CCW-129 M-F Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "CCW-129 M-F Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "tuesday": {
+      "day_of_week": "tuesday",
+      "time_blocks": [
+        {
+          "name": "CCW-129 M-F Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "CCW-129 M-F Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "CCW-129 M-F Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "wednesday": {
+      "day_of_week": "wednesday",
+      "time_blocks": [
+        {
+          "name": "CCW-129 M-F Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "CCW-129 M-F Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "CCW-129 M-F Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "thursday": {
+      "day_of_week": "thursday",
+      "time_blocks": [
+        {
+          "name": "CCW-129 M-F Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "CCW-129 M-F Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "CCW-129 M-F Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "friday": {
+      "day_of_week": "friday",
+      "time_blocks": [
+        {
+          "name": "CCW-129 M-F Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "CCW-129 M-F Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "saturday": {
+      "day_of_week": "saturday",
+      "time_blocks": [
+        {
+          "name": "CCW-129 Closed Hours Weekend",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "CCW-129 Closed Hours Weekend",
+          "status": "closed",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 11,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "sunday": {
+      "day_of_week": "sunday",
+      "time_blocks": [
+        {
+          "name": "CCW-129 Closed Hours Weekend",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "CCW-129 Closed Hours Weekend",
+          "status": "closed",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 11,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "closed_dates": []
+  },
+  {
+    "id": 1005,
+    "name": "FAC-100B",
+    "description": "FAC-100B ART Mac Lab",
+    "monday": {
+      "day_of_week": "monday",
+      "time_blocks": [
+        {
+          "name": "FAC-100B M-F Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 9,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "FAC-100B M-F Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 8,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "FAC-100B M-F Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "tuesday": {
+      "day_of_week": "tuesday",
+      "time_blocks": [
+        {
+          "name": "FAC-100B M-F Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 9,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "FAC-100B M-F Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 8,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "FAC-100B M-F Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "wednesday": {
+      "day_of_week": "wednesday",
+      "time_blocks": [
+        {
+          "name": "FAC-100B M-F Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 9,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "FAC-100B M-F Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 8,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "FAC-100B M-F Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "thursday": {
+      "day_of_week": "thursday",
+      "time_blocks": [
+        {
+          "name": "FAC-100B M-F Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 9,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "FAC-100B M-F Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 8,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "FAC-100B M-F Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "friday": {
+      "day_of_week": "friday",
+      "time_blocks": [
+        {
+          "name": "FAC-100B M-F Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 9,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "FAC-100B M-F Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 8,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "FAC-100B M-F Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "saturday": {
+      "day_of_week": "saturday",
+      "time_blocks": [
+        {
+          "name": "FAC-100B Sat-Sun Closed Hors",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "sunday": {
+      "day_of_week": "sunday",
+      "time_blocks": [
+        {
+          "name": "FAC-100B Sat-Sun Closed Hors",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "closed_dates": []
+  },
+  {
+    "id": 1006,
+    "name": "LIB-100",
+    "description": "LIB-100 Open Lab",
+    "monday": {
+      "day_of_week": "monday",
+      "time_blocks": [
+        {
+          "name": "LIB-100 M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 20,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-203 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 20,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-203 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "tuesday": {
+      "day_of_week": "tuesday",
+      "time_blocks": [
+        {
+          "name": "LIB-100 M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 20,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-203 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 20,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-203 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "wednesday": {
+      "day_of_week": "wednesday",
+      "time_blocks": [
+        {
+          "name": "LIB-100 M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 20,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-203 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 20,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-203 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "thursday": {
+      "day_of_week": "thursday",
+      "time_blocks": [
+        {
+          "name": "LIB-100 M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 20,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-203 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 20,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-203 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "friday": {
+      "day_of_week": "friday",
+      "time_blocks": [
+        {
+          "name": "LIB-100 Friday Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-100 Friday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-100 Friday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "saturday": {
+      "day_of_week": "saturday",
+      "time_blocks": [
+        {
+          "name": "LIB-100 Saturday Open Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 13,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-100 Saturday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-100 Saturday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 12,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "sunday": {
+      "day_of_week": "sunday",
+      "time_blocks": [
+        {
+          "name": "LIB-100 Sunday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-100 Sunday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "closed_dates": []
+  },
+  {
+    "id": 1007,
+    "name": "LIB-203",
+    "description": "LIB-203 Open Lab",
+    "monday": {
+      "day_of_week": "monday",
+      "time_blocks": [
+        {
+          "name": "LIB-203 M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 20,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-203 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-203 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 20,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "tuesday": {
+      "day_of_week": "tuesday",
+      "time_blocks": [
+        {
+          "name": "LIB-203 M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 20,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-203 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-203 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 20,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "wednesday": {
+      "day_of_week": "wednesday",
+      "time_blocks": [
+        {
+          "name": "LIB-203 M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 20,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-203 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-203 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 20,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "thursday": {
+      "day_of_week": "thursday",
+      "time_blocks": [
+        {
+          "name": "LIB-203 M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 20,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-203 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-203 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 20,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "friday": {
+      "day_of_week": "friday",
+      "time_blocks": [
+        {
+          "name": "LIB-203 Friday Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-203 Friday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-203 Friday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "saturday": {
+      "day_of_week": "saturday",
+      "time_blocks": [
+        {
+          "name": "LIB-203 Saturday Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 13,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-203 Saturday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 12,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-203 Saturday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "sunday": {
+      "day_of_week": "sunday",
+      "time_blocks": [
+        {
+          "name": "LIB-203 Sunday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "LIB-203 Sunday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "closed_dates": []
+  },
+  {
+    "id": 1008,
+    "name": "SBG-230",
+    "description": "SBG-230 Print Station",
+    "monday": {
+      "day_of_week": "monday",
+      "time_blocks": [
+        {
+          "name": "SBG-230 M-FRI Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 7,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 22,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-230 M-FRI Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 22,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-230 M-FRI Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 6,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "tuesday": {
+      "day_of_week": "tuesday",
+      "time_blocks": [
+        {
+          "name": "SBG-230 M-FRI Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 7,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 22,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-230 M-FRI Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 22,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-230 M-FRI Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 6,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "wednesday": {
+      "day_of_week": "wednesday",
+      "time_blocks": [
+        {
+          "name": "SBG-230 M-FRI Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 7,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 22,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-230 M-FRI Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 22,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-230 M-FRI Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 6,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "thursday": {
+      "day_of_week": "thursday",
+      "time_blocks": [
+        {
+          "name": "SBG-230 M-FRI Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 7,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 22,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-230 M-FRI Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 22,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-230 M-FRI Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 6,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "friday": {
+      "day_of_week": "friday",
+      "time_blocks": [
+        {
+          "name": "SBG-230 M-FRI Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 7,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 22,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-230 M-FRI Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 22,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-230 M-FRI Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 6,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "saturday": {
+      "day_of_week": "saturday",
+      "time_blocks": [
+        {
+          "name": "SBG-230 Saturday/Sunday Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 19,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-230 Saturday/Sunday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 19,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "sunday": {
+      "day_of_week": "sunday",
+      "time_blocks": [
+        {
+          "name": "SBG-230 Saturday/Sunday Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 19,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-230 Saturday/Sunday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 19,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-230 Sunday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "closed_dates": []
+  },
+  {
+    "id": 1009,
+    "name": "SBG-252",
+    "description": "SBG-252 Open Lab",
+    "monday": {
+      "day_of_week": "monday",
+      "time_blocks": [
+        {
+          "name": "SBG-252 M-FRI Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-252 M-FRI Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-252 M-FRI Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "tuesday": {
+      "day_of_week": "tuesday",
+      "time_blocks": [
+        {
+          "name": "SBG-252 M-FRI Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-252 M-FRI Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-252 M-FRI Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "wednesday": {
+      "day_of_week": "wednesday",
+      "time_blocks": [
+        {
+          "name": "SBG-252 M-FRI Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-252 M-FRI Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-252 M-FRI Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "thursday": {
+      "day_of_week": "thursday",
+      "time_blocks": [
+        {
+          "name": "SBG-252 M-FRI Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-252 M-FRI Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-252 M-FRI Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "friday": {
+      "day_of_week": "friday",
+      "time_blocks": [
+        {
+          "name": "SBG-252 M-FRI Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-252 M-FRI Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-252 M-FRI Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "saturday": {
+      "day_of_week": "saturday",
+      "time_blocks": [
+        {
+          "name": "SBG-252 Saturday/Sunday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-252 Saturday/Sunday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "sunday": {
+      "day_of_week": "sunday",
+      "time_blocks": [
+        {
+          "name": "SBG-252 Saturday/Sunday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "SBG-252 Saturday/Sunday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "closed_dates": []
+  },
+  {
+    "id": 1010,
+    "name": "SHL-023",
+    "description": "SHL-023 Open Lab",
+    "monday": {
+      "day_of_week": "monday",
+      "time_blocks": []
+    },
+    "tuesday": {
+      "day_of_week": "tuesday",
+      "time_blocks": []
+    },
+    "wednesday": {
+      "day_of_week": "wednesday",
+      "time_blocks": []
+    },
+    "thursday": {
+      "day_of_week": "thursday",
+      "time_blocks": []
+    },
+    "friday": {
+      "day_of_week": "friday",
+      "time_blocks": []
+    },
+    "saturday": {
+      "day_of_week": "saturday",
+      "time_blocks": []
+    },
+    "sunday": {
+      "day_of_week": "sunday",
+      "time_blocks": []
+    },
+    "closed_dates": []
+  },
+  {
+    "id": 1011,
+    "name": "LIB-100 Media Stations",
+    "description": "LIB-100 Media Stations",
+    "monday": {
+      "day_of_week": "monday",
+      "time_blocks": []
+    },
+    "tuesday": {
+      "day_of_week": "tuesday",
+      "time_blocks": []
+    },
+    "wednesday": {
+      "day_of_week": "wednesday",
+      "time_blocks": []
+    },
+    "thursday": {
+      "day_of_week": "thursday",
+      "time_blocks": []
+    },
+    "friday": {
+      "day_of_week": "friday",
+      "time_blocks": []
+    },
+    "saturday": {
+      "day_of_week": "saturday",
+      "time_blocks": []
+    },
+    "sunday": {
+      "day_of_week": "sunday",
+      "time_blocks": []
+    },
+    "closed_dates": []
+  },
+  {
+    "id": 1012,
+    "name": "Lead Lab Office",
+    "description": "Lead Lab Office PC's",
+    "monday": {
+      "day_of_week": "monday",
+      "time_blocks": [
+        {
+          "name": "Lead Lab Office M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 21,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "Lead Lab Office M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 21,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "Lead Lab Office M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "tuesday": {
+      "day_of_week": "tuesday",
+      "time_blocks": [
+        {
+          "name": "Lead Lab Office M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 21,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "Lead Lab Office M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 21,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "Lead Lab Office M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "wednesday": {
+      "day_of_week": "wednesday",
+      "time_blocks": [
+        {
+          "name": "Lead Lab Office M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 21,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "Lead Lab Office M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 21,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "Lead Lab Office M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "thursday": {
+      "day_of_week": "thursday",
+      "time_blocks": [
+        {
+          "name": "Lead Lab Office M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 21,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "Lead Lab Office M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 21,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "Lead Lab Office M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "friday": {
+      "day_of_week": "friday",
+      "time_blocks": [
+        {
+          "name": " Lead Lab Office Friday Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "Lead Lab Office Friday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "Lead Lab Office Friday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "saturday": {
+      "day_of_week": "saturday",
+      "time_blocks": [
+        {
+          "name": "Lead Lab Office Saturday/Sunday Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "Lead Lab Office Saturday/Sunday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "Lead Lab Office Saturday/Sunday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "sunday": {
+      "day_of_week": "sunday",
+      "time_blocks": [
+        {
+          "name": "Lead Lab Office Saturday/Sunday Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "Lead Lab Office Saturday/Sunday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "Lead Lab Office Saturday/Sunday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 7,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "closed_dates": []
+  },
+  {
+    "id": 1013,
+    "name": "SHL-135",
+    "description": "SHL-135 Open Lab",
+    "monday": {
+      "day_of_week": "monday",
+      "time_blocks": [
+        {
+          "name": "SHL-135 M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 7,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 21,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "SHL-135 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 21,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "SHL-135 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 6,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "tuesday": {
+      "day_of_week": "tuesday",
+      "time_blocks": [
+        {
+          "name": "SHL-135 M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 7,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 21,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "SHL-135 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 21,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "SHL-135 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 6,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "wednesday": {
+      "day_of_week": "wednesday",
+      "time_blocks": [
+        {
+          "name": "SHL-135 M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 7,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 21,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "SHL-135 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 21,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "SHL-135 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 6,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "thursday": {
+      "day_of_week": "thursday",
+      "time_blocks": [
+        {
+          "name": "SHL-135 M-TH Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 7,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 21,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "SHL-135 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 21,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        },
+        {
+          "name": "SHL-135 M-TH Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 6,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "friday": {
+      "day_of_week": "friday",
+      "time_blocks": [
+        {
+          "name": "SHL-135 Friday Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 7,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "SHL-135 Friday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "saturday": {
+      "day_of_week": "saturday",
+      "time_blocks": [
+        {
+          "name": "SHL-135 Saturday/Sunday Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "SHL-135 Saturday/Sunday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "sunday": {
+      "day_of_week": "sunday",
+      "time_blocks": [
+        {
+          "name": "SHL-135 Saturday/Sunday Open Hours",
+          "status": "open",
+          "start_time": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 17,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        {
+          "name": "SHL-135 Saturday/Sunday Closed Hours",
+          "status": "closed",
+          "start_time": {
+            "hour": 17,
+            "minute": 1,
+            "second": 0
+          },
+          "end_time": {
+            "hour": 23,
+            "minute": 59,
+            "second": 0
+          }
+        }
+      ]
+    },
+    "closed_dates": []
+  }
+]
